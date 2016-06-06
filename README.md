@@ -35,13 +35,10 @@ Immortalviewpager的使用
 2:  初始化代码
 
    ① 初始化数据 （设置Adapter）
-   public class HomePagerVpAdapter extends ImmortalvpAdapter {
-
+   
     public HomePagerVpAdapter(Context context) {
         super(context);
     }
-
-   }
    
    第一个参数为：要显示的条目个数
    
